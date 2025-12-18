@@ -76,28 +76,19 @@ body {
     background: #252641;
 }
 
-/* Input */
+/* Seach */
 
-.search-inp,
-.search-btn {
+.search-inp {
     background-color: #111827;
     color: #ffffff;
     border: 1px solid #a1a1a1;
-    width: 150px;
-    height: 24px;
+    width: 180px;
+    height: 30px;
     border-radius: 10px;
 }
 
 .search-inp::placeholder {
     color: #ffffff;
-}
-
-.search-btn {
-    cursor: pointer;
-    width: 60px;
-    height: 28px;
-    border-radius: 10px;
-
 }
 
 /* Theme btn */
